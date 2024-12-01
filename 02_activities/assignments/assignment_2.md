@@ -11,23 +11,16 @@
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
       Your answer...
+      A strong example of a good visualization is the line chart depicting global CO₂ emissions over time from Our World in Data. This chart effectively balances aesthetic, substantive, and perceptual qualities. Visually, it employs a simple, clean design with smooth lines and a neutral color palette, ensuring clarity without distracting the audience. The substantive accuracy of the visualization is evident through its precise labeling of axes—time on the x-axis and CO₂ emissions on the y-axis—and the inclusion of contextual annotations, such as major events like the industrial revolution or energy crises. These details help audiences understand the factors influencing emissions trends. Perceptually, the chart excels at conveying a clear upward trend, making the data accessible even to viewers without technical expertise. Furthermore, by citing sources prominently, the visualization builds trust and transparency.
 
-
-
-
-
-
+      An example of a bad visualization is a 3D pie chart that attempts to represent world population growth by region from 1970 to 2020. This chart fails in multiple areas. Aesthetically, it overuses 3D effects, which distort the size and proportions of the pie segments, making the data difficult to interpret. The high-contrast, garish color choices further add to the visual clutter, detracting from the chart's readability. Substantively, the visualization lacks clear labeling for regions and numerical values, making it nearly impossible to verify or interpret the data accurately. The pie chart format is also inappropriate for showing changes over time, misleading viewers into seeing static percentages instead of growth trends. Perceptually, the chart’s unnecessary visual embellishments and poor design choices prevent audiences from quickly grasping its message. Moreover, the lack of data sources and citations reduces its credibility and trustworthiness.
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      Although the global emissions chart is highly effective, it could be enhanced with interactive features. For instance, allowing users to filter data by specific regions, industries, or time frames would provide a more tailored exploration of the dataset. Additionally, incorporating comparative data points, such as projections for future emissions under various policy scenarios, could offer a richer context for understanding the trends. Finally, adding a brief explanatory legend for complex terms or visual elements would ensure accessibility for a broader audience.
 
-
-
-
-
-
+      To improve the population growth visualization, a different chart type such as a stacked bar chart could be used. These formats would better illustrate changes in population over time and allow for easy comparisons between regions. Clear labels for regions, as well as the inclusion of numerical values or percentages, would make the data easier to understand and verify. Additionally, simplifying the design by removing 3D effects and using a clean, two-dimensional layout would enhance readability. Finally, citing the data source prominently would increase transparency and trust in the visualization.
       
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
