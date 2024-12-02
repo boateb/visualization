@@ -8,22 +8,48 @@
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
+    
+    I used Python (Matplotlib and Seaborn libraries) and Tableau Public to create my visualizations; Python for data cleaning, preparation, and creating the first visualization. Python offers flexibility and precision, which is essential for handling and visualizing complex datasets like crime data. Tableau for the second visualization to create an interactive map of crime occurrences across Toronto. Tableau is particularly powerful for dynamic visualizations and geographic data representation.
 
     > Who is your intended audience? 
     
+    My primary audience consists of urban planners, policymakers, law enforcement agencies, and community organizations in Toronto. This visualization will help them understand crime trends and make informed decisions related to public safety and resource allocation.
+
     > What information or message are you trying to convey with your visualization? 
+
+    The primary message of my visualizations is to highlight trends in crime across different neighborhoods and over time, helping stakeholders identify areas that need more attention, intervention, or resources. The second visualization, an interactive map, specifically aims to show the distribution of crime types across Toronto’s neighborhoods, facilitating targeted crime prevention strategies.
     
     > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
     
+    Substantive 
+    - I chose to focus on the crime categories (e.g., violent crimes, property crimes) and geographical distribution to ensure the visualizations are aligned with the audience's objectives of understanding crime patterns. For the time series plot, I focused on year-over-year crime trends to illustrate patterns of crime reduction or increase.
+
+    Perceptual 
+    - Color: In the map, I used a color gradient (lighter to darker shades) to represent crime density, making it easy for users to visually differentiate high-crime areas from low-crime ones. For the time series plot, I used contrasting colors for different crime categories to improve clarity
+    - Scale and Layout: In the time series plot, I kept the x-axis simple with consistent time intervals to facilitate comparison over the years. In the map, I used proportional symbols and heatmaps to ensure that users could easily spot regions with higher crime rates.
+
+    Aesthetic
+    - I kept the design clean and minimalistic, with no extraneous elements. In Tableau, I used large icons to represent crime types on the map, ensuring they were both informative and visually appealing. The time series plot in Python followed a simple yet professional design with clear labels and gridlines for ease of interpretation.
+    
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
+    
+    To ensure reproducibility I wrote clean, modular code with clear comments and used well-documented libraries (Matplotlib and Seaborn) to create the plot. The code is available in a GitHub repository, and I’ve ensured that all external dependencies are included in a requirements file. I also used Tableau which offers less flexibility in code but allows me to save the workbook and data, which are publicly available via Tableau Public. The visualization can be updated dynamically with new data by simply uploading an updated version of the dataset.
     
     > How did you ensure that your data visualization is accessible?  
     
+    I took several steps to ensure that my visualizations are accessible. In Python, I used color palettes that are specifically designed to be colorblind-friendly (e.g., ColorBrewer), making sure that individuals with color vision deficiencies can still interpret the visual data. I also ensured that the charts had clear labels, axis titles, and annotations to guide the viewer’s understanding. In Tableau, I focused on creating an interactive map with intuitive filtering options so that users can explore the data at their own pace, adjusting for time periods or crime types. Additionally, I incorporated large font sizes, high contrast colors, and a straightforward layout to improve legibility and usability for individuals with visual impairments.
+    
     > Who are the individuals and communities who might be impacted by your visualization?  
+
+    The individuals and communities most impacted by these visualizations are the residents of Toronto, especially those living in areas with high crime rates. These visualizations can help them understand the safety landscape of their neighborhoods and make informed decisions about their daily lives. Law enforcement agencies and policymakers can use the data to better allocate resources, design crime prevention programs, and evaluate the success of current safety strategies. Non-profit organizations focused on crime prevention, housing, or social services may also find these visualizations useful in advocating for resources or policy changes in areas affected by high crime rates.
     
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
     
+    In designing my visualizations, I carefully selected the most relevant features of the dataset. For the time series plot, I chose to focus on the number of incidents per year for key crime types, which allowed me to illustrate trends over time without overwhelming the viewer with excessive details. I excluded very granular data, such as individual incident records, as this would make the visualization too detailed and less effective for the intended audience. In the Tableau map, I included geographic data related to neighborhood locations, crime types, and crime counts, ensuring the visualization remained focused on presenting clear and actionable insights. I excluded extraneous data, such as arrest information or specific case details, to keep the map focused and readable.
+
     > What ‘underwater labour’ contributed to your final data visualization product?
+
+    The creation of these visualizations involved substantial "underwater labor," especially in terms of data cleaning and preparation. In Python, I used pandas to handle missing values, convert date formats, and filter out irrelevant columns. I also needed to normalize crime types, ensuring consistency across different datasets. This was a time-consuming process that required careful attention to detail to avoid errors that could compromise the accuracy of the visualizations. In Tableau, I spent time creating calculated fields, adjusting filters, and fine-tuning the map's interactivity. Additionally, I worked to ensure that the map was both functional and aesthetically pleasing, which involved adjusting color schemes and the design of interactive features.
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
