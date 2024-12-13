@@ -1,0 +1,81 @@
+[33m41b8e62[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32massignment-4[m[33m, [m[1;31morigin/assignment-4[m[33m)[m updated visualizations
+[33maabcd4d[m Merge branch 'assignment-4' of https://github.com/boateb/visualization into assignment-4
+[33m182c0e4[m updated visualizations
+[33mee75914[m Add files via upload
+[33me4d2ec1[m Completed assignment 4
+[33md99fc01[m Merge pull request #20 from UofT-DSI/zogheibc-patch-1
+[33m7fb3807[m Update README.md
+[33m92b13d7[m Removing acknowledgement from content.
+[33mfc7aa7e[m Update README.md
+[33m68f3ef5[m Updating workflow
+[33m22e28fd[m Workflow added for automated comments.
+[33m7a4408c[m Merge pull request #11 from UofT-DSI/move-ack
+[33mde7353f[m moving acknowledgement to the global readme
+[33md2e1662[m Merge pull request #10 from UofT-DSI/fs-update
+[33ma9ac285[m tiny change
+[33m2fbbcd4[m file structure update
+[33m4bed15a[m Update README.md
+[33m015c477[m Update assignment_4.md
+[33ma9656bb[m Update assignment_3.md
+[33m03e1c7f[m Update assignment_2.md
+[33m61c3221[m Update assignment_1.md
+[33mdbe64e5[m Update README.md
+[33m4f121c7[m Merge pull request #5 from UofT-DSI/restructure-repo
+[33m6edc412[m Merge branch 'main' into restructure-repo
+[33m831ef43[m Updating Submission Information markdown syntax
+[33m1d9c47c[m Updating the Pull Request templates to remove mention of adding Learning Supports and Technical Facilitators as reviewer.
+[33m6e156f7[m Updating repo so that resources and live coding go into the new "cohort_3" folder.
+[33mcef06d4[m removing duplicate folder.
+[33m60dc56c[m renaming lessons/slides folder in the instructors folder to "markdown_slides"
+[33ma8884b6[m Merge pull request #9 from UofT-DSI/miscellaneous
+[33mb053dbe[m Miscellaneous tasks.
+[33mb618c09[m Added Assignments to README
+[33md27bd0d[m Removing Policies.
+[33m7e7a3ed[m Merge pull request #8 from UofT-DSI/Visualization
+[33ma26d30f[m Merge branch 'main' into Visualization
+[33m48f3cca[m Updating README for cohort 2 2024
+[33ma806c85[m Restructuring the repo.
+[33m04a8d24[m Renaming images so that they're organized.
+[33mc41ad31[m Removing snake case replacer script.
+[33m7f5194e[m Merge pull request #7 from UofT-DSI/snake_case
+[33m27846c8[m Replacing dashes with underscores
+[33m29bac7d[m Updating the ask for help image
+[33m1e00b60[m Readmes (#6)
+[33m403e5dd[m Updating the markdowns to use newer learning outcomes and minor fixes
+[33m2e7d103[m pptxs and pdfs to md files, the addition of generate_slides.sh, unified image folder
+[33m9c11736[m Reorganizing the repo structure
+[33m7f07437[m Update DSI_DataViz_7_AccessibleDataVisualization.pptx
+[33m4943974[m Merge pull request #3 from UofT-DSI/zogheibc-patch-1
+[33m16da605[m Merge pull request #2 from UofT-DSI/Visualization
+[33m1bcf164[m Correct order of lessons 4/5
+[33m55a23e3[m Update README.md
+[33md762b6e[m Updated Assignment 4 text to mention real-world applicability
+[33m75e745b[m Adding all slides
+[33md19a475[m adding first lesson slides
+[33m61c9f97[m Adding Assessments, Removing old lessons
+[33m46dcd4f[m Update README.md
+[33mc729315[m Create DSI_DataViz_9_DynamicDataVisualizations.pdf
+[33m916a807[m Create DSI_DataViz_8_DrawingMaps.pdf
+[33m928feba[m Upload Assignment 4 Document
+[33m169cc79[m Saturday's slides
+[33ma30210b[m Adding New Assignment an dSlides
+[33m3b35e31[m Create DSI_DataViz_4.1_RefineYourPlots.pdf
+[33m5e2f206[m Uploading new lesson slides
+[33m6ceb373[m Uploading additional slides and next assignment document
+[33m163342c[m Update README.md
+[33mf8f305f[m Update README.md
+[33mb06ba1f[m Update README.md
+[33m910990f[m Adding content
+[33mbc91f1b[m Delete assignments directory
+[33m22dc4a8[m Delete DSI_DataViz_1_Assignment1.pdf
+[33mc73e625[m Create docs
+[33m51acc09[m Add files via upload
+[33mfb7b91e[m Delete post-course directory
+[33m5f86ce3[m Delete lessons directory
+[33mc2c5fa7[m Delete assignments directory
+[33m3edbb2d[m Delete slides-resources directory
+[33md128b7d[m Delete homework directory
+[33m27a97e3[m Update README.md
+[33md48a36d[m Update README.md
+[33mff35b6b[m Update README.md
+[33m83feb0e[m Initial commit
